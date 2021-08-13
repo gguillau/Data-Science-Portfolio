@@ -10,8 +10,11 @@ grant opportunities and fill out applications with little or no human interventi
 Main objectives are:
 
 • Find suitable online grant opportunities
+
 • Create autofill scripts to fill in constant values
+
 • Make an user-friendly GUI with tracking information
+
 
 3. Procedures/Scope of Work
 During the initial stage of the project, we mainly focus on web scraping in Python with
