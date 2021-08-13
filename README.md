@@ -8,6 +8,7 @@ grant opportunities and fill out applications with little or no human interventi
 2. Goals/Objectives
 
 Main objectives are:
+
 • Find suitable online grant opportunities
 • Create autofill scripts to fill in constant values
 • Make an user-friendly GUI with tracking information
