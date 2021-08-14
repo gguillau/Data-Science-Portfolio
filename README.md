@@ -1,5 +1,4 @@
-Grant Automation
-
+<h1>Data Science Project Portfolio
 1. Overview
 Researching grant prospects could be time-consuming and overwhelming. Our goal in this
 project is to develop an automation system so that our organization is able to find available
