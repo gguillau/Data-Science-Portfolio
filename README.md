@@ -1,27 +1,23 @@
 <h1>Data Science Project Portfolio</h1>
-1. Overview
-Researching grant prospects could be time-consuming and overwhelming. Our goal in this
-project is to develop an automation system so that our organization is able to find available
-grant opportunities and fill out applications with little or no human intervention.
 
-2. Goals/Objectives
+Repository containing portfolio of data science projects completed by me for the [Practicum by Yandex Data Scientist Program](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
 
-Main objectives are:
+## Contents
+### Practicum by Yandex Projects:
+* Data Analysis and Visualisation
+  * Python 
+    * [Telecom Prepaid Plan Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis): Data Analysis on profitability between two prepaid plans from hypothetical telecom company Megaline. Which prepaid plan is more profitable?
+    * [Video Game Sales Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis): Data Analysis identifying what factors make a video game succeed, for a hypothetical online game store (Ice) to plan future marketing around successful releases
+ 
+ * Data Extraction and Data Mining
+   * Python 
+     *  [DataReady Web Scraping](https://github.com/giova22i/DataReady-Internship): Develop an automation system so that our organization is able to find available grant opportunities and fill out applications with little or no human intervention.
 
-• Find suitable online grant opportunities
+### Academic Research Projects
+* Survey Data Analysis   
+  * SPSS
+    * [Ethnic-Identity-Development-Research-Project](https://github.com/giova22i/Ethnic-Identity-Development-Research-Project):  Research of ethnic identity development by examining how three components of ethnic identity: ethnic search, achievement and commitment; change across the transition from high school to college.
+    * [Effect of Anxiety on Self Estimates of Intelligence](https://github.com/giova22i/Anxiety-Effect-on-SEI): Determine if higher levels of state anxiety would lead to lower self-estimates of intelligence among undergraduate students.
+ *
 
-• Create autofill scripts to fill in constant values
 
-• Make an user-friendly GUI with tracking information
-
-
-3. Procedures/Scope of Work
-During the initial stage of the project, we mainly focus on web scraping in Python with
-Selenium. After successfully extracting relevant grant information, we will filter/train our
-script to select further grant opportunities using Natural Language Processing. Once the
-selection process is completed, we will proceed to the Automation stage, where we use
-Selenium to automate the login procedure and autofill forms. Our final goal is to make our
-project accessible and intuitive. To achieve this, we can integrate our script into a Graphical
-User Interface or dashboard, where users can interact with our scripts and make changes
-where need be. If we are able to complete all the stages stated above, we can also incorporate
-application progress tracking, where our clients will be notified should updates arise.
