@@ -16,6 +16,8 @@ Repository containing portfolio of data science projects completed by me for the
 * Machine Learning
     * [introML](https://github.com/giova22i/introML): Identify the right plan for each subscriber based on their behavior, using the historical data available from Telecom Company Plans. Build machine learning model with highest accuracy.
     * [Bank Churn](https://github.com/giova22i/supervisedlearning): Creating a classification model to predict customer churn for a bank from an imbalanced dataset.
+    * [Oil Well Model](https://github.com/giova22i/MLB): Build a Linear Regression model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
+
 
 *Tools: scikit-learn, Pandas, Seaborn, Matplotlib*
 
