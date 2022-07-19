@@ -18,8 +18,8 @@ Following are the highlights of the projects:
 *Tools: Beautiful Soup, Selenium, ntlk*
 
 __Highlights__:
-* Python Automation Team:
-    * Developed a bookmarking chrome extension to collect grant websites using electronJs
+* Grant Automation Team:
+    * Developed a bookmarking chrome extension to collect grant websites using electronJs using Python
     * Create web scraping scripts to collect relevant grant information from bookmarked websites 
     * Database management, collected, analyzed, and interpreted raw data from various sources
 * Web Analytics Team:
