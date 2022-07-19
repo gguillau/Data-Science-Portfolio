@@ -2,13 +2,31 @@
 
 Repository containing portfolio of data science projects completed by me for the [Practicum by Yandex Data Scientist Program](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
 
+Following are the highlights of the projects:
+
+* __Libraries used__: pandas, matplotlib.pyplot, seaborn, numpy, scipy, re, math, warnings, sklearn, scikitplot, nltk
+
+* __Machine Learning Models Evaluated__:
+    * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier
+    * __Regression Models__: LinearRegressor, DecisionTreeRegressor, RandomForestRegressor
+
 ## Contents
 
  ### Internship Experience:
- * Data Manipulation and Extraction
-     *  [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
+ [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
+
+*Tools: Beautiful Soup, Selenium, ntlk*
+
+__Highlights__:
+* Python Automation Team:
+    * Developed a bookmarking chrome extension to collect grant websites using electronJs
+    * Create web scraping scripts to collect relevant grant information from bookmarked websites 
+    * Database management, collected, analyzed, and interpreted raw data from various sources
+* Web Analytics Team:
+    * Collection, reporting, and analysis of website data through the use of Google Analytics software.
+
      
-*Tools: Beautiful Soup, Selenium*
+*Tools: Beautiful Soup, Selenium, Google Analytics*
 
 ### Practicum by Yandex Projects:
 * Machine Learning
