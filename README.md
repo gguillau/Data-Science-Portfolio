@@ -12,7 +12,7 @@ Following are the highlights of the projects:
 
 ## Contents
 
- ### Internship Experience:
+### Internship Experience:
  [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
 
 *Tools: Beautiful Soup, Selenium, ntlk*
