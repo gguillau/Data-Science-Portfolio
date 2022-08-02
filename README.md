@@ -31,7 +31,7 @@ __Highlights__:
 * Machine Learning
     * [Gold Recovery Model](https://github.com/giova22i/Gold-Recovery-ML): Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry. The model should predict the amount of gold recovered from gold ore.
     * [introML](https://github.com/giova22i/introML): Identify the right plan for each subscriber based on their behavior, using the historical data available from Telecom Company Plans. Build machine learning model with highest accuracy.
-    * [Bank Churn](https://github.com/giova22i/supervisedlearning): Creating a classification model to predict customer churn for a bank from an imbalanced dataset.
+    * [Bank Churn Analysis](https://github.com/giova22i/supervisedlearning): Creating a classification model to predict customer churn for a bank from an imbalanced dataset.
     * [Oil Well Model](https://github.com/giova22i/MLB): Build a Linear Regression model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
    
 
@@ -39,7 +39,7 @@ __Highlights__:
 *Tools: scikit-learn, Pandas, Seaborn, Matplotlib*
 
 * Data Analysis and Visualisation 
-    *  [Video Game Sales Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis): Data Analysis identifying what factors make a video game succeed.  Identify patterns in historical game sales data, analyze metrics for each video game platform, and conduct statistical hypothesis testing to find potential big winners and plan advertising campaigns.
+    *  [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis): Data Analysis identifying what factors make a video game succeed.  Identify patterns in historical game sales data, analyze metrics for each video game platform, and conduct statistical hypothesis testing to find potential big winners and plan advertising campaigns.
     * [Telecom Prepaid Plan Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis): Preliminary analysis of the plans based on a relatively small client selection. Analyze clients' behavior and determine which prepaid plan brings in more revenue. Conduct statistical hypothesis testing on profit from different plan users and different regions.
     * [Vehicle Price Analysis](https://github.com/giova22i/Practicum-EDA): Analysis on what factors affect the price of a vehicle to be listed on a car sales website.
 
