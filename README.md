@@ -30,9 +30,11 @@ __Highlights__:
 
 ### Practicum by Yandex Projects:
 * Machine Learning
+    * [Gold Recovery Model](https://github.com/giova22i/Gold-Recovery-ML): Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry. The model should predict the amount of gold recovered from gold ore.
     * [introML](https://github.com/giova22i/introML): Identify the right plan for each subscriber based on their behavior, using the historical data available from Telecom Company Plans. Build machine learning model with highest accuracy.
     * [Bank Churn](https://github.com/giova22i/supervisedlearning): Creating a classification model to predict customer churn for a bank from an imbalanced dataset.
     * [Oil Well Model](https://github.com/giova22i/MLB): Build a Linear Regression model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
+   
 
 
 *Tools: scikit-learn, Pandas, Seaborn, Matplotlib*
