@@ -15,7 +15,6 @@ Following are the highlights of the projects:
 ### Internship Experience:
  [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
 
-*Tools: Beautiful Soup, Selenium, ntlk*
 
 __Highlights__:
 * Grant Automation Team:
@@ -26,7 +25,7 @@ __Highlights__:
     * Collection, reporting, and analysis of website data through the use of Google Analytics software.
 
      
-*Tools: Beautiful Soup, Selenium, Google Analytics*
+*Tools: Beautiful Soup, Selenium, ntlk, Google Analytics*
 
 ### Practicum by Yandex Projects:
 * Machine Learning
