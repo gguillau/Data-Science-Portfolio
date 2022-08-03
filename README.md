@@ -5,7 +5,7 @@ Repository containing portfolio of ongoing and completed data science projects c
 Following are the highlights of the projects:
 - **Languages**: Python, PostgreSQL, SQL 
 
-- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, math,, sklearn, scikitplot, nltk, SPSS
+- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, math, sklearn, scikitplot, nltk, SPSS
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier
