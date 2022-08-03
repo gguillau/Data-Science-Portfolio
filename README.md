@@ -5,7 +5,7 @@ Repository containing portfolio of ongoing and completed data science projects c
 Following are the highlights of the projects:
 - **Languages**: Python, PostgreSQL, SQL 
 
-- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, re, math, warnings, sklearn, scikitplot, nltk, SPSS
+- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, math,, sklearn, scikitplot, nltk, SPSS
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier
@@ -43,12 +43,12 @@ __Highlights__:
     * [Telecom Prepaid Plan Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis): Preliminary analysis of the plans based on a relatively small client selection. Analyze clients' behavior and determine which prepaid plan brings in more revenue. Conduct statistical hypothesis testing on profit from different plan users and different regions.
     * [Vehicle Price Analysis](https://github.com/giova22i/Practicum-EDA): Analysis on what factors affect the price of a vehicle to be listed on a car sales website.
 
-*Tools: Pandas, Seaborn and Matplotlib, ScriPy*
+*Tools: Pandas, Seaborn and Matplotlib, SciPy*
 
-* Data Collection and Storage (SQL)
+* Data Collection and Storage (Python and PostgreSQL)
     * [Taxi Ride Analysis](https://github.com/giova22i/SQL-Project): Data Analysis on Chicago taxicab rides and weather reports to advise hypothetical ride-sharing company Zuber. Study a database, analyze data from competitors, and test hypothesis about the impact of weather on ride frequency.
     
-*Tools: Pandas, PostgreSQL, scipy.stats,numpy*
+*Tools: Beautiful Soup, Requests, Pandas, PostgreSQL, SciPy.stats,NumPy*
 
 
 
