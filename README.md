@@ -10,9 +10,8 @@ Following are the highlights of the projects:
     * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier
     * __Regression Models__: LinearRegressor, DecisionTreeRegressor, RandomForestRegressor
 
-## Contents
 
-### Internship Experience:
+## Internship Experience:
  [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
 
 
@@ -27,7 +26,7 @@ __Highlights__:
      
 *Tools: Beautiful Soup, Selenium, ntlk, Google Analytics*
 
-### Practicum by Yandex Projects:
+## Practicum by Yandex Projects:
 * Machine Learning
     * [Gold Recovery Model](https://github.com/giova22i/Gold-Recovery-ML): Prepare a prototype of a machine learning model for Zyfra  to predict the amount of gold recovered from the gold ore for the purpose of optimizing production and eliminating unprofitable parameters. The company develops efficiency solutions for heavy industry.
     * [introML](https://github.com/giova22i/introML): Identify the right plan for each subscriber based on their behavior, using the historical data available from Telecom Company Plans. Build machine learning model with highest accuracy.
@@ -52,7 +51,7 @@ __Highlights__:
 
 
 
-### Undergraduate Research Projects (University at Buffalo)
+## Undergraduate Research Projects (University at Buffalo)
 * Survey Data Analysis   
     * [Ethnic-Identity-Development-Research-Project](https://github.com/giova22i/Ethnic-Identity-Development-Research-Project):  Research of ethnic identity development by examining how three components of ethnic identity: ethnic search, achievement and commitment; change across the transition from high school to college.
     * [Effect of Anxiety on Self Estimates of Intelligence](https://github.com/giova22i/Anxiety-Effect-on-SEI): Determine if higher levels of state anxiety would lead to lower self-estimates of intelligence among undergraduate students.
