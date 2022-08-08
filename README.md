@@ -1,4 +1,5 @@
-<h1>Data Science Project Portfolio</h1>
+# Data Science Project Portfolio
+---
 
 Repository containing portfolio of ongoing and completed data science projects completed by me for the [Practicum by Yandex Data Scientist Program](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
 
@@ -28,7 +29,7 @@ __Highlights__:
 *Tools: Beautiful Soup, Selenium, ntlk, Google Analytics*
 
 ## Practicum by Yandex Projects:
-* Machine Learning
+* **Machine Learning (Python)**
     * [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML): Prepare a prototype of a machine learning model for Zyfra  to predict the amount of gold recovered from the gold ore for the purpose of optimizing production and eliminating unprofitable parameters. The company develops efficiency solutions for the heavy industry.
     * [Telecom Plan Classification Model](https://github.com/giova22i/introML): Identify the right plan for each subscriber based on their behavior, using the historical data available from Telecom Company Plans. Build machine learning model with highest accuracy.
     * [Bank Customer Churn Prediction Model](https://github.com/giova22i/supervisedlearning): Creating a classification model to predict customer churn for a bank from an imbalanced dataset.
@@ -38,14 +39,14 @@ __Highlights__:
 
 *Tools: sklearn, Pandas, Seaborn, Matplotlib*
 
-* Statistical Data Analysis and Visualisation 
+* **Statistical Data Analysis and Visualisation (Python)**
     *  [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis): Data Analysis identifying what factors make a video game succeed.  Identify patterns in historical game sales data, analyze metrics for each video game platform, and conduct statistical hypothesis testing to find potential big winners and plan advertising campaigns.
     * [Telecom Prepaid Plan Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis): Preliminary analysis of the plans based on a relatively small client selection. Analyze clients' behavior and determine which prepaid plan brings in more revenue. Conduct statistical hypothesis testing on profit from different plan users and different regions.
     * [Vehicle Price Analysis](https://github.com/giova22i/Practicum-EDA): Analysis on what factors affect the price of a vehicle to be listed on a car sales website.
 
 *Tools: Pandas, Seaborn and Matplotlib, SciPy*
 
-* Data Collection and Storage (Python and PostgreSQL)
+* **Data Collection and Storage (Python and PostgreSQL)**
     * [Taxi Ride Analysis](https://github.com/giova22i/SQL-Project): Data Analysis on Chicago taxicab rides and weather reports to advise hypothetical ride-sharing company Zuber. Study a database, analyze data from competitors, and test hypothesis about the impact of weather on ride frequency.
     
 *Tools: Beautiful Soup, Requests, Pandas, PostgreSQL, SciPy.stats,NumPy*
