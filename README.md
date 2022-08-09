@@ -10,7 +10,7 @@ Following are the highlights of the projects:
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier
-    * __Regression Models__: LinearRegressor, DecisionTreeRegressor, RandomForestRegressor
+    * __Regression Models__: LinearRegressor, DecisionTreeRegressor, RandomForestRegressor, LogisticRegression
 
 
 ## Internship Experience:
