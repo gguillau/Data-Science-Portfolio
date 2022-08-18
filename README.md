@@ -41,16 +41,20 @@ __Highlights__:
 
 * **Statistical Data Analysis and Visualisation (Python)**
     *  [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis): Data Analysis identifying what factors make a video game succeed.  Identify patterns in historical game sales data, analyze metrics for each video game platform, and conduct statistical hypothesis testing to find potential big winners and plan advertising campaigns.
-    * [Telecom Prepaid Plan Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis): Preliminary analysis of the plans based on a relatively small client selection. Analyze clients' behavior and determine which prepaid plan brings in more revenue. Conduct statistical hypothesis testing on profit from different plan users and different regions.
-    * [Vehicle Price Analysis](https://github.com/giova22i/Practicum-EDA): Analysis on what factors affect the price of a vehicle to be listed on a car sales website.
+    * [Telecom Plan Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis): Preliminary analysis of the plans based on a relatively small client selection. Analyze clients' behavior and determine which prepaid plan brings in more revenue. Conduct statistical hypothesis testing on profit from different plan users and different regions.
+    * [Vehicle Sales Analysis](https://github.com/giova22i/Practicum-EDA): Analysis on what factors affect the price of a vehicle to be listed on a car sales website.
 
 *Tools: Pandas, Seaborn and Matplotlib, SciPy*
 
 * **Data Collection and Storage (Python and PostgreSQL)**
-    * [Taxi Ride Analysis](https://github.com/giova22i/SQL-Project): Data Analysis on Chicago taxicab rides and weather reports to advise hypothetical ride-sharing company Zuber. Study a database, analyze data from competitors, and test hypothesis about the impact of weather on ride frequency.
+    * [Ride Sharing App Analysis](https://github.com/giova22i/SQL-Project): Data Analysis on Chicago taxicab rides and weather reports to advise hypothetical ride-sharing company Zuber. Study a database, analyze data from competitors, and test hypothesis about the impact of weather on ride frequency.
     
 *Tools: Beautiful Soup, Requests, Pandas, PostgreSQL, SciPy.stats,NumPy*
 
+* __Data Preprocessing (Python)__
+   * [Credit Score Analysis](https://github.com/giova22i/Credit-Report-Analysis): Analyzing borrowers’ risk of defaulting. Prepare a report for a bank’s loan division to determine the likelihood that a customer defaults on a loan. Find out if a customer’s marital status and number of children has an impact on whether they will default on a loan. 
+
+*Tools: Python, NLTK, WordNetLemmatizer, SnowballStemmer*
 
 
 ## Undergraduate Research Projects (University at Buffalo)
