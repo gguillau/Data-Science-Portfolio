@@ -30,7 +30,7 @@ __Highlights__:
     * Collection, reporting, and analysis of website data through the use of Google Analytics software.
 
      
-*Tools: Beautiful Soup, Selenium, ntlk, Google Analytics*
+*Tools: TensorFlow, Beautiful Soup, Selenium, pandas, ntlk, Google Analytics*
 
 ## Practicum by Yandex Projects:
 * **Machine Learning (Python)**
