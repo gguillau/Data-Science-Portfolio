@@ -1,5 +1,4 @@
-# Linear Algebra
-
+# Linear Algebra with Machine Learning
 ## Background
 
 This project is part of the Data Scientist training program from Practicum by Yandex. More info in link below:
