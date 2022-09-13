@@ -6,7 +6,7 @@ Repository containing portfolio of ongoing and completed data science projects c
 Following are the highlights of the projects:
 - **Languages**: Python, PostgreSQL, SQL 
 
-- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, math, sklearn, scikitplot, NLTK, SPSS Statistics, Beautiful Soup, Selenium
+- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, TensorFlow, math, sklearn, scikitplot, NLTK, SPSS Statistics, Beautiful Soup, Selenium
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier
@@ -26,6 +26,7 @@ __Highlights__:
     * Developed a bookmarking chrome extension to collect grant websites using electronJs using Python
     * Create web scraping scripts to collect relevant grant information from bookmarked websites 
     * Database management, collected, analyzed, and interpreted raw data from various sources
+    *  Filtered/trained  script to select further grant opportunities using Natural Language Processing
 * Web Analytics Team:
     * Collection, reporting, and analysis of website data through the use of Google Analytics software.
 
