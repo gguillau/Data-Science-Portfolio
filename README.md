@@ -9,7 +9,7 @@ Following are the highlights of the projects:
 - __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, TensorFlow, math, sklearn, scikitplot, NLTK, SPSS Statistics, Beautiful Soup, Selenium
 
 * __Machine Learning Models Evaluated__:
-    * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier
+    * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier
     * __Regression Models__: LinearRegressor, DecisionTreeRegressor, RandomForestRegressor, LogisticRegression
 
 - **Psychological Assessment Scales and Measures:**
