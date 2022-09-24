@@ -45,6 +45,16 @@ Rusty Bargain is interested in:
  * scipy.stats
  * numpy
  * sklearn
+ * lightGBM
+ * catboost
+ * xgboost
 
 ##  Models Evaluated
+ * LinearRegressor
+ * DecisionTreeRegressor
+ * RandomForestRegressor
+ * XGBRegressor
+ * LGBMRegressor
+ * CatBoostRegressor
+
 
