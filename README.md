@@ -10,7 +10,7 @@ Following are the highlights of the projects:
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier
-    * __Regression Models__: LinearRegressor, DecisionTreeRegressor, RandomForestRegressor, LogisticRegression
+    * __Regression Models__: LinearRegressor, DecisionTreeRegressor, RandomForestRegressor, LogisticRegression, XGBRegressor, LGBMRegressor, CatBoostRegressor
 
 - **Psychological Assessment Scales and Measures:**
    * Multigroup Ethnic Identity Measure (MEIM)
