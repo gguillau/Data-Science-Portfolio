@@ -1,4 +1,4 @@
-# Numerical Methods
+# Numerical Methods with Machine Learning
 
 ## Background
 
