@@ -1,4 +1,4 @@
-# Data Science Project Portfolio
+# <p align=center> Data Science Project Portfolio 
 ---
 
 Repository containing portfolio of ongoing and completed data science projects completed by me for the [Practicum by Yandex Data Scientist Program](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
