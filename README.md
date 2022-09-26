@@ -35,6 +35,7 @@ __Highlights__:
 
 ## Practicum by Yandex Projects:
 * **Machine Learning (Python)**
+    * [Car Sales Market Value Prediction](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project): Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
     * [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project): Linear regression for insurance benefits prediction
     * [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML): Prepare a prototype of a machine learning model for Zyfra  to predict the amount of gold recovered from the gold ore for the purpose of optimizing production and eliminating unprofitable parameters. The company develops efficiency solutions for the heavy industry.
     * [Telecom Plan Classification Model](https://github.com/giova22i/introML): Identify the right plan for each subscriber based on their behavior, using the historical data available from Telecom Company Plans. Build machine learning model with highest accuracy.
