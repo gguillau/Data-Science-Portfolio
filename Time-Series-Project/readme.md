@@ -6,7 +6,7 @@ The RMSE metric on the test set should not be more than 48.
 
 
 ## Background
-This project is part of the Data Scientist training program from Practicum by Yandex. More info in link below:
+This project is part of the Data Scientist training program from Practicum. More info in link below:
 
 https://practicum.yandex.com/data-scientist
 
