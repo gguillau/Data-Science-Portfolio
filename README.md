@@ -1,7 +1,7 @@
 # <p align=center> Data Science Project Portfolio 
 ---
 
-Repository containing portfolio of ongoing and completed data science projects completed by me for the [Practicum by Yandex Data Scientist Program](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
+Repository containing portfolio of ongoing and completed data science projects completed by me for the [Practicum data scientist training program](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
 
 Following are the highlights of the projects:
 - **Languages**: Python, PostgreSQL, SQL 
@@ -33,7 +33,7 @@ __Highlights__:
      
 *Tools: TensorFlow, Beautiful Soup, Selenium, pandas, ntlk, Google Analytics*
 
-## Practicum by Yandex Projects:
+## Practicum Data Science Projects:
 * **Machine Learning (Python)**
     * [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project): Use historical data on taxi orders at airports to create a model that predicts the number of taxi orders for the next hour.
     * [Car Sales Market Value Prediction](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project): Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
