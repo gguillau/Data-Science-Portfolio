@@ -1,4 +1,4 @@
-# Project description
+# Machine Learning for Texts Project
 >Sweet Lift Taxi company has collected historical data on taxi orders at airports. 
 
 ## Objective
