@@ -35,11 +35,12 @@ __Highlights__:
 
 ## Technical Projects:
 * **Machine Learning (Python)**
+    * [Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts): Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews.
     * [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project): Use historical data on taxi orders at airports to create a model that predicts the number of taxi orders for the next hour.
     * [Car Sales Market Value Prediction](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project): Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
     * [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project): Linear regression for insurance benefits prediction
     * [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML): Prepare a prototype of a machine learning model for Zyfra  to predict the amount of gold recovered from the gold ore for the purpose of optimizing production and eliminating unprofitable parameters. The company develops efficiency solutions for the heavy industry.
-    * [Telecom Plan Classification Model](https://github.com/giova22i/introML): Identify the right plan for each subscriber based on their behavior, using the historical data available from Telecom Company Plans. Build machine learning model with highest accuracy.
+    * [Telecom Plan Classification Model](https://github.com/giova22i/introML): Build machine learning model to identify the right plan for each subscriber based on their behavior, using the historical data available. 
     * [Bank Customer Churn Prediction Model](https://github.com/giova22i/supervisedlearning): Creating a classification model to predict customer churn for a bank from an imbalanced dataset.
     * [Oil Well Regression Model](https://github.com/giova22i/MLB): Build a Linear Regression model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
    
