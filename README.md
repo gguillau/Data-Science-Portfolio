@@ -4,9 +4,9 @@
 Repository containing portfolio of ongoing and completed data science projects completed by me for the [Practicum Data Science training program](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
 
 Following are the highlights of the projects:
-- **Languages**: Python, PostgreSQL, SQL 
+- **Languages**: Python, PostgreSQL
 
-- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, TensorFlow, math, sklearn, scikitplot, NLTK, SPSS Statistics, Beautiful Soup, Selenium
+- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, TensorFlow, math, sklearn, scikitplot, PyTorch, BERT, NLTK, SPSS Statistics, Beautiful Soup, Selenium
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier
@@ -35,7 +35,7 @@ __Highlights__:
 
 ## Technical Projects:
 * **Machine Learning (Python)**
-    * [Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts): Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews.
+    * [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts): Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews.
     * [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project): Use historical data on taxi orders at airports to create a model that predicts the number of taxi orders for the next hour.
     * [Car Sales Market Value Prediction](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project): Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
     * [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project): Linear regression for insurance benefits prediction
