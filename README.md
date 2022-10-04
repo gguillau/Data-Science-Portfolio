@@ -1,12 +1,12 @@
 # <p align=center> Data Science Project Portfolio 
 ---
 
-Repository containing portfolio of ongoing and completed data science projects completed by me for the [Practicum Data Science training program](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
+Repository containing portfolio of ongoing and completed data science projects completed by me for the [Practicum Data Science bootcamp](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
 
 Following are the highlights of the projects:
 - **Languages**: Python, PostgreSQL
 
-- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, TensorFlow, math, sklearn, scikitplot, PyTorch, BERT, NLTK, SPSS Statistics, Beautiful Soup, Selenium
+- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, Beautiful Soup, Selenium, spaCy, TensorFlow, math, sklearn, scikitplot, torch, transformers, PyTorch, BERT, NLTK, SPSS Statistics
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier
