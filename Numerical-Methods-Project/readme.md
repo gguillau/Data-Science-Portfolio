@@ -1,11 +1,5 @@
 # Numerical Methods with Machine Learning
 
-## Background
-
-This project is part of the Data Scientist training program from Practicum by Yandex. More info in link below:
-
-https://practicum.yandex.com/data-scientist
-
 
 ## Objective
 Rusty Bargain used car sales service is developing an app to attract new
@@ -56,5 +50,12 @@ Rusty Bargain is interested in:
  * XGBRegressor
  * LGBMRegressor
  * CatBoostRegressor
+ 
+ ## Background
+
+This project is part of the Data Scientist training program from Practicum by Yandex. More info in link below:
+
+https://practicum.yandex.com/data-scientist
+
 
 
