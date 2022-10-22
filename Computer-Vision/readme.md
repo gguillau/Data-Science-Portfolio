@@ -1,7 +1,7 @@
-# Project description
+# Computer Vision Age Detection
  The supermarket chain Good Seed would like to explore whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. 
  
- ## Project Goal
+ ## Objective
  Conduct the evaluation on age detection by building and evaluating a model for verifying people's age
  
  Given:
