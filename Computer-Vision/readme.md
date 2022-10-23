@@ -16,7 +16,7 @@
  * Matplotlib.pyplot
  * numpy
  * sklearn
- * PIL
+ * PIL (Python Imaging Library)
  * tensorflow (ResNet50, ImageDataGenerator)
  * Optimizeer (Adam)
 
