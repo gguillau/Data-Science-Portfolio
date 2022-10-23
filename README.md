@@ -6,7 +6,7 @@ Repository containing portfolio of ongoing and completed data science projects c
 Following are the highlights of the projects:
 - **Languages**: Python, PostgreSQL
 
-- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, Beautiful Soup, Selenium, spaCy, TensorFlow, math, sklearn, scikitplot, torch, transformers, PyTorch, BERT, NLTK, SPSS Statistics
+- __Tools__: Pandas, Matplotlib, Plotly, Seaborn, NumPy, SciPy, Beautiful Soup, Selenium, spaCy, TensorFlow, math, sklearn, scikitplot, torch, transformers, PIL (Python Imaging Library), PyTorch, BERT, NLTK, SPSS Statistics
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier
@@ -35,6 +35,7 @@ __Highlights__:
 
 ## Technical Projects:
 * **Machine Learning (Python)**
+    * [Computer Vision Age Detection](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision): Build Machine Learning models for computer vision, to predict the approximate age of a customer from a Supermarket checkout  photograph.
     * [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts): Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews.
     * [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project): Use historical data on taxi orders at airports to create a model that predicts the number of taxi orders for the next hour.
     * [Car Sales Market Value Prediction](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project): Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
@@ -46,7 +47,7 @@ __Highlights__:
    
 
 
-*Tools: sklearn, Pandas, Seaborn, Matplotlib*
+*Tools: sklearn, Pandas, Seaborn, Matplotlib, TensorFlow, PIL (Python Imaging Library)*
 
 * **Statistical Data Analysis and Visualisation (Python)**
     *  [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis): Data Analysis identifying what factors make a video game succeed.  Identify patterns in historical game sales data, analyze metrics for each video game platform, and conduct statistical hypothesis testing to find potential big winners and plan advertising campaigns.
