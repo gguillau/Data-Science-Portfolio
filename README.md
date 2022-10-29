@@ -68,14 +68,14 @@ __Highlights__:
 
 
 ## Undergraduate Research Projects (University at Buffalo)
-* Survey Data Analysis   
+* __Survey Data Analysis__   
     * [Ethnic-Identity-Development-Research-Project](https://github.com/giova22i/Ethnic-Identity-Development-Research-Project):  Research of ethnic identity development by examining how three components of ethnic identity: ethnic search, achievement and commitment; change across the transition from high school to college.
     * [Effect of Anxiety on Self Estimates of Intelligence](https://github.com/giova22i/Anxiety-Effect-on-SEI): Determine if higher levels of state anxiety would lead to lower self-estimates of intelligence among undergraduate students.
     * [Advanced Psych Research Methods Research Project](https://github.com/giova22i/Psych-Research-Project): Experimental analysis to examine the relationship between phone use and the amount of sleep acquired
 
 Tools: *SPSS Statistics*
 
-Psychological Assessment Scales and Measures:
+__Psychological Assessment Scales and Measures__:
    * *Multigroup Ethnic Identity Measure (MEIM)*
    * *State-Trait Anxiety Inventory (STAI)*
 
