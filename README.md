@@ -16,6 +16,25 @@ Following are the highlights of the projects:
    * *Multigroup Ethnic Identity Measure (MEIM)*
    * *State-Trait Anxiety Inventory (STAI)*
 
+| No. |    Hands-on Experience |         Project       | Technical skills       | 
+|---- |   -------------------- |      -------------   |--------------- | 
+|1    |   Data Preprocessing   |            [Analyzing borrowers’ risk of defaulting](https://github.com/giova22i/Credit-Report-Analysis)           | Python, NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib | 
+|2    |   Exploratory Data Analysis (EDA)           | [Research on car sales ads](https://github.com/giova22i/Practicum-EDA)         | Python, Seaborn, Matplotlib | 
+|3    |   Statistical Data Analysis (SDA)    | [Statistical Data Analysis on telecomm data](https://github.com/giova22i/Prepaid-Plan-Analysis)           | Python, Numpy, SciPy, Seaborn, Matplotlib 
+|4    |   Data Visualization and Storytelling with Data       | [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis)          | Python, Pandas, Squarify, Seaborn, Matplotlib 
+|6    |   Webscraping and Data Storage in databases       | [Data Collection, Webscraping and Storage for a new ride-sharing company](https://github.com/chuksoo/ride_sharing_analytics/blob/main/ride_sharing_SQL.ipynb)           | PostgreSQL, Python, BeautifulSoup, Seaborn, Matplotlib |      
+|7    |   Real Data and Webscraping     | [Web Scraping with BeautifulSoup and Requests](https://github.com/chuksoo/bs4-web-scraper/blob/main/PyScrape.ipynb)           | Python, BeautifulSoup, Requests |  
+|8    |   Machine Learning - Classification System   | [Phone plan recommendation system](https://github.com/chuksoo/telecom_recommender_systemML/blob/main/telecom_recommender_systemML.ipynb)           | Python, Scikit-learn, Pandas |       &#9745; |
+|9    |   Supervised Learning - Prediction  |  [Bank Customer Churn Prediction using Machine Learning](https://github.com/chuksoo/customer_churn_predictML/blob/main/customer_churn_predictML.ipynb)           | Scikit-learn, XGBoost, GridSearchCV, AdaBoost |       &#9745; |
+|10    |   Machine Learning in Business   | [Machine Learning for reservoir optimization](https://github.com/chuksoo/reservoir_optimizationML/blob/main/oil_reserves_predictML.ipynb)           | Python, Scikit-learn, Bootstrapping, LinearRegression |      
+|11    |   Machine Learning in Business  |  [Machine Learning for gold extraction optimization](https://github.com/chuksoo/gold_extraction_optimizationML/blob/main/gold_extraction_optimizationML.ipynb)           | Python, Scikit-learn, LinearRegression |     
+|12    |   Linear Algebra with Machine Learning  | [Machine Learning and Linear regression for insurance benefit prediction](https://github.com/chuksoo/insurance_benefit_predictionML/blob/main/insurance_benefit_predictionML.ipynb)           | Scikit-learn, Linear Algebra, k-Nearest Neighbors |       
+|13    |   Numerical Methods with Machine Learning  |[Vehicle price prediction using various implementation of gradient boosting](https://github.com/chuksoo/vehicle_price_predictionML/blob/main/vehicle_price_predictionML.ipynb)           | Numerical Methods, CatBoost, LightGBM, XGBoost |      
+|14    |   Time Series Analysis  |  [Taxi orders prediction using Machine Learning](https://github.com/chuksoo/taxi_orders_predictionML/blob/main/taxi_orders_predictionML.ipynb)           | Time Series Analysis, CatBoost, LightGBM, XGBoost |       
+|15    | Natural Language Processing (NLP)  |  [IMBD Movie Sentiment Analysis using NLP](https://github.com/chuksoo/imdb_movie_sentiment_analysisNLP/blob/main/imdb_movie_sentiment_analysisNLP.ipynb)           | SGDClassifier, Naïve bayes, LightGBM, spaCy, TF-IDF, BERT |    
+|16    | Computer Vision (CV)  | [Customer Image Processing using deep learning](https://github.com/chuksoo/customer_image_processing_CV/blob/main/customer_image_processing_CV.ipynb)           | Tensorflow | 
+|17    | Machine Learning for Prediction  |  [Telecom Client Churn Forecasting using Machine Learning](https://github.com/chuksoo/telecom_client_churn_forecasting/blob/main/telecom_client_churn_forecasting.ipynb)           | Machine learning algorithms, XGBoost, CatBoost, LightGBM |   
+<!--- |7    |   Machine Learning for Process Optimization  | Delivery time prediction   | [Predicting total delivery time for delivery optimization]()           | Python, Scikit-learn, Pandas, Seaborn, XGBoost |       &#9744; | --->
 
 ## Internship Experience:
  [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
@@ -34,6 +53,7 @@ __Highlights__:
 *Tools: TensorFlow, Beautiful Soup, Selenium, pandas, ntlk, Google Analytics*
 
 ## Technical Projects:
+
 * **Machine Learning (Python)**
     * [Computer Vision Age Detection](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision): Built a regression model for computer vision, in order to predict the approximate age of a customer from a Supermarket checkout  photograph.
     * [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts): Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews.
@@ -65,7 +85,6 @@ __Highlights__:
    * [Credit Score Analysis](https://github.com/giova22i/Credit-Report-Analysis): Analyzing borrowers’ risk of defaulting. Prepare a report for a bank’s loan division to determine the likelihood that a customer defaults on a loan. Find out if a customer’s marital status and number of children has an impact on whether they will default on a loan. 
 
 *Tools: Python, NLTK, WordNetLemmatizer, SnowballStemmer*
-
 
 ## Undergraduate Research Projects (University at Buffalo)
 * __Quantitative Survey Data Analysis__   
