@@ -33,7 +33,7 @@ Following are the highlights of the projects:
 |13    | Natural Language Processing (NLP)  |  [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts)   | SGDClassifier, Naïve bayes, LightGBM, spaCy, TF-IDF, BERT |    
 |14    | Computer Vision (CV)  | [Computer Vision Age Detection using deep learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision) | Tensorflow | 
 
-## Internship Experience:
+## Technical Experience:
  [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
 
 
