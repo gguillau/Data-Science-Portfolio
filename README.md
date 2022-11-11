@@ -18,17 +18,17 @@ Following are the highlights of the projects:
 
 | No. |    Hands-on Experience |         Project       | Technical skills       | 
 |---- |   -------------------- |      -------------   |--------------- | 
-|1    |   Data Preprocessing   |            [Analyzing borrowers’ risk of defaulting](https://github.com/giova22i/Credit-Report-Analysis)           | Python, NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib | 
+|1    |   Data Preprocessing   |            [Credit Score Analysis](https://github.com/giova22i/Credit-Report-Analysis)           | Python, NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib | 
 |2    |   Exploratory Data Analysis (EDA)           | [Vehicle Market Analysis](https://github.com/giova22i/Practicum-EDA)         | Python, Matplotlib | 
 |3    |   Statistical Data Analysis (SDA)    | [Telecom Customer Data Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis)           | Python, Numpy, SciPy, Seaborn, Matplotlib 
 |4    |   Data Visualization and Storytelling with Data       | [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis)          | Python, Pandas, Squarify, Seaborn, Matplotlib 
 |5    |   Webscraping and Data Storage in databases       | [Data Collection, Webscraping and Storage for a new ride-sharing company](https://github.com/giova22i/SQL-Project)           | PostgreSQL, Python, BeautifulSoup, Seaborn, Matplotlib |      
-|6    |   Machine Learning - Classification System   | [Telecom Plan Classification Model](https://github.com/giova22i/introML)           | Python, Scikit-learn, Pandas |       &#9745; |
+|6    |   Machine Learning - Classification System   | [Telecom Plan Classification Model](https://github.com/giova22i/introML)           | Python, Scikit-learn, Pandas |
 |7    |   Supervised Learning - Prediction  |  [Bank Customer Churn Prediction using Machine Learning](https://github.com/giova22i/supervisedlearning)          | Scikit-learn, XGBoost, GridSearchCV, AdaBoost |    
 |8    |   Machine Learning in Business   | [Oil Well Regression Model](https://github.com/giova22i/MLB)          | Python, Scikit-learn, Bootstrapping, LinearRegression |      
 |9    |   Machine Learning in Business  |  [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML)          | Python, Scikit-learn, LinearRegression |     
 |10    |   Linear Algebra with Machine Learning  | [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project)   | Scikit-learn, Linear Algebra, k-Nearest Neighbors |       
-|11    |   Numerical Methods with Machine Learning  |[Vehicle price prediction using gradient boosting](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project)           | Numerical Methods, CatBoost, LightGBM, XGBoost |      
+|11    |   Numerical Methods with Machine Learning  |[Vehicle Market Value Prediction using gradient boosting](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project)           | Numerical Methods, CatBoost, LightGBM, XGBoost |      
 |12    |   Time Series Analysis  |  [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project)          | Time Series Analysis, CatBoost, LightGBM, XGBoost |       
 |13    | Natural Language Processing (NLP)  |  [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts)   | SGDClassifier, Naïve bayes, LightGBM, spaCy, TF-IDF, BERT |    
 |14    | Computer Vision (CV)  | [Computer Vision Age Detection using deep learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision) | Tensorflow | 
@@ -55,7 +55,7 @@ __Highlights__:
     * [Computer Vision Age Detection](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision): Built a regression model for computer vision, in order to predict the approximate age of a customer from a Supermarket checkout  photograph.
     * [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts): Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews.
     * [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project): Use historical data on taxi orders at airports to create a model that predicts the number of taxi orders for the next hour.
-    * [Car Sales Market Value Prediction](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project): Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
+    * [Vehicle Market Value Prediction](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project): Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
     * [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project): Linear regression for insurance benefits prediction
     * [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML): Prepare a prototype of a machine learning model for Zyfra  to predict the amount of gold recovered from the gold ore for the purpose of optimizing production and eliminating unprofitable parameters. The company develops efficiency solutions for the heavy industry.
     * [Telecom Plan Classification Model](https://github.com/giova22i/introML): Build machine learning model to identify the right plan for each subscriber based on their behavior, using the historical data available. 
