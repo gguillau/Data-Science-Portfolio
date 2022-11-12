@@ -23,10 +23,10 @@ Following are the highlights of the projects:
 |3    |   Statistical Data Analysis (SDA)    | [Telecom Customer Data Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis)           | Python, Numpy, SciPy, Seaborn, Matplotlib 
 |4    |   Data Visualization and Storytelling with Data       | [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis)          | Python, Pandas, Squarify, Seaborn, Matplotlib 
 |5    |   Webscraping and Data Storage in databases       | [Data Collection, Webscraping and Storage for a new ride-sharing company](https://github.com/giova22i/SQL-Project)           | PostgreSQL, Python, BeautifulSoup, Seaborn, Matplotlib |      
-|6    |   Machine Learning - Classification System   | [Telecom Plan Classification Model](https://github.com/giova22i/introML)           | Python, Scikit-learn, Pandas |
+|6    |   Machine Learning - Classification | [Telecom Plan Classification Model](https://github.com/giova22i/introML)           | Python, Scikit-learn, Pandas |
 |7    |   Supervised Learning - Prediction  |  [Bank Customer Churn Prediction using Machine Learning](https://github.com/giova22i/supervisedlearning)          | Scikit-learn, XGBoost, GridSearchCV, AdaBoost |    
-|8    |   Machine Learning in Business   | [Oil Well Regression Model](https://github.com/giova22i/MLB)          | Python, Scikit-learn, Bootstrapping, LinearRegression |      
-|9    |   Machine Learning in Business  |  [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML)          | Python, Scikit-learn, LinearRegression |     
+|8    |   Machine Learning in Business - Regression  | [Oil Well Regression Model](https://github.com/giova22i/MLB)          | Python, Scikit-learn, Bootstrapping, LinearRegression |      
+|9    |   Machine Learning in Business - Regression |  [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML)          | Python, Scikit-learn, LinearRegression |     
 |10    |   Linear Algebra with Machine Learning  | [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project)   | Scikit-learn, Linear Algebra, k-Nearest Neighbors |       
 |11    |   Numerical Methods with Machine Learning  |[Vehicle Market Value Prediction using gradient boosting](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project)           | Numerical Methods, CatBoost, LightGBM, XGBoost |      
 |12    |   Time Series Analysis  |  [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project)          | Time Series Analysis, CatBoost, LightGBM, XGBoost |       
