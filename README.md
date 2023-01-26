@@ -18,7 +18,7 @@ Following are the highlights of the projects:
 
 |    Hands-on Experience |         Project       | Technical skills       | 
 |   -------------------- |      -------------   |--------------- | 
-| Unsupervised Learning  | [Client Churn Forecasting](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Unsupervised-Learning) | Machine learning algorithms, XGBoost, CatBoost, LightGBM | 
+| Unsupervised Learning  | [Client Churn Forecast w/ Machine Learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Unsupervised-Learning) | Machine learning algorithms, XGBoost, CatBoost, LightGBM | 
 | Computer Vision (CV)  | [Computer Vision Age Detection w/ deep learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision) | Tensorflow |
 | Natural Language Processing (NLP)  |  [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts)   | SGDClassifier, Naïve bayes, LightGBM, spaCy, TF-IDF, BERT |    
 |   Time Series Analysis  |  [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project)          | Time Series Analysis, CatBoost, LightGBM, XGBoost |
