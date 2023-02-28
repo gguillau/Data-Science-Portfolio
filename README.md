@@ -39,19 +39,27 @@ Following are the highlights of the projects:
 
 
 ## Relevant Experience:
+[Prediciting Song Valence - Cuetessa,inc Project](https://github.com/giova22i/Cuetessa-Project): Tasked with developing a Python-based regression model to predict the valence of pop songs for the purpose of playlist curation and other applications.
+
+__Highlights__:
+* Data collection and extraction using Spotify’s Web API 
+* Audio feature extraction and analysis from mp3 files using Librosa (python package for music analysis)
+* Regression analysis to predict valence using both song lyrics (NLP) and audio features as input
+ 
+*Tools: pandas, numPy, matplotlib, seaborn, spotipy, transformers, sklearn, Librosa*
+
+
+
+
  [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
 
 
 __Highlights__:
-* Grant Automation Team:
-    * Developed a bookmarking chrome extension to collect grant websites using electronJs using Python
-    * Create web scraping scripts to collect relevant grant information from bookmarked websites 
-    * Database management, collected, analyzed, and interpreted raw data from various sources
-    *  Filtered/trained  script to select further grant opportunities using Natural Language Processing
-* Web Analytics Team:
-    * Collection, reporting, and analysis of website data through the use of Google Analytics software.
-
-     
+* Database management; collected, analyzed, and interpreted raw public grant data 
+* Developed and implemented scripts to autofill constant values 
+* Collection, reporting, and analysis of website data
+* Filtered/trained script to select further grant opportunities using Natural Language Processing
+ 
 *Tools: TensorFlow, Beautiful Soup, Selenium, pandas, ntlk, Google Analytics*
 
 ## Technical Projects:
