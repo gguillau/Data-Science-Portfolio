@@ -6,7 +6,7 @@ Repository containing portfolio of ongoing and completed data science projects c
 Following are the highlights of the projects:
 - **Languages**: *Python, PostgreSQL*
 
-- __Tools__: *pandas, matplotlib, [lotly, Seaborn, NumPy, sciPy, Beautiful Soup, Selenium, spaCy, TensorFlow, math, scikit-learn, scikitplot, torch, transformers, PIL (Python Imaging Library), PyTorch, BERT, NLTK, SPSS Statistics*
+- __Tools__: *pandas, matplotlib, plotly, Seaborn, NumPy, sciPy, Beautiful Soup, Selenium, spaCy, TensorFlow, math, scikit-learn, scikitplot, torch, transformers, PIL (Python Imaging Library), PyTorch, BERT, NLTK, SPSS Statistics*
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: *DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier, AdaBoostClassifier, XGBClassifier, CatBoostClassifier, LGBMClassifier, k-NNClassifier*
