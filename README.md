@@ -4,9 +4,10 @@
 Repository containing portfolio of ongoing and completed data science projects completed by me for the [Practicum Data Science bootcamp](https://practicum.yandex.com/data-scientist) and academic, self learning, and hobby purposes.
 
 Following are the highlights of the projects:
-- **Languages**: *Python, PostgreSQL*
+- **Languages/Software**: *Python, PostgreSQL, HTML, CSS, SPSS Statistics, Microsoft Excel/Access, Qualtrics Surveys, Google Analytics, Adobe Analytics*
 
-- __Tools__: *pandas, matplotlib, plotly, Seaborn, NumPy, sciPy, Beautiful Soup, Selenium, spaCy, TensorFlow, math, scikit-learn, scikitplot, torch, transformers, PIL (Python Imaging Library), PyTorch, BERT, NLTK, SPSS Statistics*
+- __Tools__: *pandas, NumPy, seaborn, matplotlib, plotly, sciPy, scikit-learn, TensorFlow, Keras, Beautiful Soup,  Selenium, transformers, NLP (NLTK, spaCy, BERT), librosa, spotipy, PySpark, electronJs, PIL (Python Imaging Library), PyTorch*
+  
 
 * __Machine Learning Models Evaluated__:
     * __Classification Models__: *DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier, AdaBoostClassifier, XGBClassifier, CatBoostClassifier, LGBMClassifier, k-NNClassifier*
@@ -47,8 +48,10 @@ __Highlights__:
 * Regression analysis to predict valence using both song lyrics (NLP) and audio features as input
  
 *Tools: pandas, numPy, matplotlib, seaborn, spotipy, transformers, sklearn, Librosa*
+   
+![alt text](https://github.com/giova22i/Data-Science-Portfolio/blob/main/images/melspec.png)
 
-
+** *
 
 
  [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
