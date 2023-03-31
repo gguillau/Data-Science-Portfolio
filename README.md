@@ -23,15 +23,15 @@ Following are the highlights of the projects:
 | Computer Vision (CV)  | [Computer Vision Age Detection w/ deep learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision) | Tensorflow |
 | Natural Language Processing (NLP)  |  [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts)   | SGDClassifier, Naïve bayes, LightGBM, spaCy, TF-IDF, BERT |    
 |   Time Series Analysis  |  [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project)          | Time Series Analysis, CatBoost, LightGBM, XGBoost |
-|   Numerical Methods with Machine Learning  |[Vehicle Market Value Prediction w/ gradient boosting](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project)           | Numerical Methods, CatBoost, LightGBM, XGBoost |
-|   Linear Algebra with Machine Learning  | [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project)   | Scikit-learn, Linear Algebra, k-Nearest Neighbors |   
-|   Data Visualization and Storytelling with Data       | [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis)          | Python, Pandas, Squarify, Seaborn, Matplotlib |
-|   Webscraping and Data Storage in databases       | [Data Collection, Webscraping and Storage](https://github.com/giova22i/SQL-Project)           | PostgreSQL, Python, BeautifulSoup, Seaborn, Matplotlib |      
+|   Machine Learning in Business |  [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML)          | Python, Scikit-learn, LinearRegression |   
+  |   Numerical Methods with ML  |[Vehicle Market Value Prediction w/ gradient boosting](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project)           | Numerical Methods, CatBoost, LightGBM, XGBoost |
+|   Linear Algebra with Machine Learning  | [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project)   | Scikit-learn, Linear Algebra, k-Nearest Neighbors |
 |   Machine Learning - Classification | [Telecom Plan Classification Model](https://github.com/giova22i/introML)           | Python, Scikit-learn, Pandas |
 |   Supervised Learning - Prediction  |  [Bank Customer Churn Prediction](https://github.com/giova22i/supervisedlearning)          | Scikit-learn, XGBoost, GridSearchCV, AdaBoost |    
-|   Machine Learning in Business - Regression  | [Oil Well Regression Model](https://github.com/giova22i/MLB)          | Python, Scikit-learn, Bootstrapping, LinearRegression |      
-|   Machine Learning in Business - Regression |  [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML)          | Python, Scikit-learn, LinearRegression |        
-|   Data Preprocessing   |            [Credit Score Analysis](https://github.com/giova22i/Credit-Report-Analysis)           | Python, NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib | 
+|   Machine Learning in Business | [Oil Well Regression Model](https://github.com/giova22i/MLB)          | Python, Scikit-learn, Bootstrapping, LinearRegression |
+|   Webscraping and Data Storage      | [Data Collection, Webscraping and Storage](https://github.com/giova22i/SQL-Project)           | PostgreSQL, Python, BeautifulSoup, Seaborn, Matplotlib, ETL (extract, transform and load) | 
+|   Data Visualization and Storytelling with Data       | [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis)          | Python, Pandas, Squarify, Seaborn, Matplotlib |   
+|   Data Preprocessing   |            [Credit Score Analysis](https://github.com/giova22i/Credit-Report-Analysis)           | Python,  NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib | 
 |   Exploratory Data Analysis (EDA)           | [Vehicle Market Analysis](https://github.com/giova22i/Practicum-EDA)         | Pandas, Matplotlib | 
 |   Statistical Data Analysis (SDA)    | [Telecom Customer Data Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis)           | Python, pandas, Numpy, SciPy, Seaborn, Matplotlib 
 
