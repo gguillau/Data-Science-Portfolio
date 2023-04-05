@@ -39,7 +39,7 @@ Following are the highlights of the projects:
 
 
 
-## Work Experience:
+## Relevant Experience:
 [Prediciting Song Valence - Cuetessa,inc Project](https://github.com/giova22i/Cuetessa-Project): Tasked with developing a Python-based regression model to predict the valence of pop songs for the purpose of playlist curation and other applications.
 
 __Highlights__:
