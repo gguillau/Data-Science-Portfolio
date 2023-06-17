@@ -6,7 +6,7 @@ Repository containing portfolio of ongoing and completed data science projects c
 Following are the highlights of the projects:
 - **Languages/Software**: *Python, PostgreSQL, HTML, CSS, SPSS Statistics, Microsoft Excel/Access, Qualtrics Surveys, Google Analytics, Adobe Analytics*
 
-- __Tools__: *pandas, NumPy, seaborn, matplotlib, plotly, sciPy, scikit-learn, TensorFlow, Keras, Beautiful Soup,  Selenium, transformers, NLP (NLTK, spaCy, BERT), librosa, spotipy, PySpark, electronJs, PIL (Python Imaging Library), PyTorch*
+- __Tools__: *pandas, NumPy, seaborn, matplotlib, plotly, sciPy, scikit-learn, TensorFlow, Keras, geopandas, folium, langid, Beautiful Soup,  Selenium, transformers, NLP (NLTK, spaCy, BERT), librosa, spotipy, PySpark, electronJs, shapely, SSH, SFTP, Unix/Linux*
   
 
 * __Machine Learning Models Evaluated__:
