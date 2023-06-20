@@ -57,7 +57,7 @@ __Highlights__:
 *Tools:  Python, pandas, seaborn,  scikit-learn, langid, geopandas, tensorflow, BERT*
 
 ** *
-### [Prediciting Song Valence - Cuetessa,inc](https://github.com/giova22i/Cuetessa-Song-Valence-Prediction)
+### [Song Valence Prediction - Cuetessa,inc](https://github.com/giova22i/Cuetessa-Song-Valence-Prediction)
 
 Tasked with developing a Python-based regression model to predict the valence of pop songs for playlist curation and other applications. An automatic method of classifying the valence of pop songs is useful for playlist curation and other applications.
 
@@ -82,7 +82,7 @@ __Highlights__:
 ** *
 
 
- ### [Grant Automated Web Scraper - DataReadyDFW](https://github.com/giova22i/DataReady-Internship)
+ ### [Grant Automated Web Scraper - DataReadyDFW](https://github.com/giova22i/DataReady-Grant-Automated-Web-Scraper)
  
  Researching grant prospects can be time-consuming and overwhelming. Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention. 
 
