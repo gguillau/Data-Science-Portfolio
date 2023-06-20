@@ -73,7 +73,9 @@ __Highlights__:
 * Learned to use AWS for Machine learning, including driver management
  
    
-![alt text](https://github.com/giova22i/Cuetessa-Song-Valence-Prediction/blob/main/charts/resultsvalence.png)
+<p align="center">
+  <img src="https://github.com/giova22i/Cuetessa-Song-Valence-Prediction/blob/main/charts/resultsvalence.png" />
+</p>
 
 *Tools: pandas, numPy, matplotlib, seaborn, spotipy, transformers, sklearn, Librosa*
 
