@@ -82,7 +82,7 @@ __Highlights__:
 ** *
 
 
- ### [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship)
+ ### [Grant Automated Web Scraper - DataReadyDFW](https://github.com/giova22i/DataReady-Internship)
  
  Researching grant prospects can be time-consuming and overwhelming. Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention. 
 
