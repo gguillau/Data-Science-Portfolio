@@ -39,22 +39,50 @@ Following are the highlights of the projects:
 
 
 
-## Relevant Experience:
-[Prediciting Song Valence - Cuetessa,inc Project](https://github.com/giova22i/Cuetessa-Project): Tasked with developing a Python-based regression model to predict the valence of pop songs for the purpose of playlist curation and other applications.
+## Work Experience:
+### [Tweet Geolocation Prediction - Yachay.ai](https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction)
+Contributed research to company’s infrastructure, with the goal of training a deep learning model using BERT to predict user geolocation from individual tweets.
+
+Highlights:
+
+* Identified and gathered relevant data from various sources.
+* Performed exploratory data analysis to gain insights into the data.Implemented Hugging Face NLP pipelines to extract text features: sentiment, topic, language
+* Preprocess the text data (e.g., tokenization, removing stop words) using BERT  for model training
+* Evaluated model performance using appropriate MSE and haversine loss
+* Median and mean differences between predicted and actual distances were 1,334 km and 1,881 km, respectively, demonstrating the model's accuracy.
+* Acknowledged the workflow's potential to provide valuable geolocation prediction capabilities, with the possibility of scaling and integrating it into the existing infrastructure for real-time application
+
+![alt text](https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction/blob/main/charts/mintplot.png)
+
+*Tools:  Python, pandas, seaborn,  scikit-learn, langid, geopandas, tensorflow, BERT*
+
+** *
+### [Prediciting Song Valence - Cuetessa,inc](https://github.com/giova22i/Cuetessa-Song-Valence-Prediction)
+
+Tasked with developing a Python-based regression model to predict the valence of pop songs for playlist curation and other applications. An automatic method of classifying the valence of pop songs is useful for playlist curation and other applications.
+
 
 __Highlights__:
 * Data collection and extraction using Spotify’s Web API 
 * Audio feature extraction and analysis from mp3 files using Librosa (python package for music analysis)
 * Regression analysis to predict valence using both song lyrics (NLP) and audio features as input
+* Regression analysis to predict valence using song lyrics (NLP) and audio features as input
+* Implemented various approaches to train and validate models to forecast valence scores of songs
+* Conducted model training, validation, and hyperparameter optimization using RandomSearchCV on four regression models: Random Forest, K-Nearest Neighbors, XGBoost, and Linear Regression.
+* Selected Support Vector Regression model trained on 191 normalized audio features, achieving an RMSE score of 0.16 on testing data, meeting the company's desired model performance standards
+* Learned to use AWS for Machine learning, including driver management
  
-*Tools: pandas, numPy, matplotlib, seaborn, spotipy, transformers, sklearn, Librosa*
    
-![alt text](https://github.com/giova22i/Data-Science-Portfolio/blob/main/images/melspec.png)
+![alt text](https://github.com/giova22i/Cuetessa-Song-Valence-Prediction/blob/main/charts/resultsvalence.png)
+
+*Tools: pandas, numPy, matplotlib, seaborn, spotipy, transformers, sklearn, Librosa*
 
 ** *
 
 
- [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship): Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention.
+ ### [DataReadyDFW Grant Automation Project](https://github.com/giova22i/DataReady-Internship)
+ 
+ Researching grant prospects can be time-consuming and overwhelming. Develop an automation system for a nonprofit organization (DataReady DFW) to find available grant opportunities and fill out applications with little or no human intervention. 
 
 
 __Highlights__:
