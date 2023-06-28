@@ -17,23 +17,7 @@ Following are the highlights of the projects:
    * *Multigroup Ethnic Identity Measure (MEIM)*
    * *State-Trait Anxiety Inventory (STAI)*
 
-|    Hands-on Experience |         Project       | Technical skills       | 
-|   -------------------- |      -------------   |--------------- | 
-| Unsupervised Learning  | [Client Churn Forecast w/ Machine Learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Unsupervised-Learning) | Machine learning algorithms, XGBoost, CatBoost, LightGBM | 
-| Computer Vision (CV)  | [Computer Vision Age Detection w/ deep learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision) | Tensorflow |
-| Natural Language Processing (NLP)  |  [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts)   | SGDClassifier, Naïve bayes, LightGBM, spaCy, TF-IDF, BERT |    
-|   Time Series Analysis  |  [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project)          | Time Series Analysis, CatBoost, LightGBM, XGBoost |
-|   Machine Learning in Business |  [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML)          | Python, Scikit-learn, LinearRegression |   
-  |   Numerical Methods with ML  |[Vehicle Market Value Prediction w/ gradient boosting](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project)           | Numerical Methods, CatBoost, LightGBM, XGBoost |
-|   Linear Algebra with Machine Learning  | [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project)   | Scikit-learn, Linear Algebra, k-Nearest Neighbors |
-|   Machine Learning - Classification | [Telecom Plan Classification Model](https://github.com/giova22i/introML)           | Python, Scikit-learn, Pandas |
-|   Supervised Learning - Prediction  |  [Bank Customer Churn Prediction](https://github.com/giova22i/supervisedlearning)          | Scikit-learn, XGBoost, GridSearchCV, AdaBoost |    
-|   Machine Learning in Business | [Oil Well Regression Model](https://github.com/giova22i/MLB)          | Python, Scikit-learn, Bootstrapping, LinearRegression |
-|   Webscraping and Data Storage      | [Data Collection, Webscraping and Storage](https://github.com/giova22i/SQL-Project)           | PostgreSQL, Python, BeautifulSoup, Seaborn, Matplotlib, ETL (extract, transform and load) | 
-|   Data Visualization and Storytelling with Data       | [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis)          | Python, Pandas, Squarify, Seaborn, Matplotlib |   
-|   Data Preprocessing   |            [Credit Score Analysis](https://github.com/giova22i/Credit-Report-Analysis)           | Python,  NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib | 
-|   Exploratory Data Analysis (EDA)           | [Vehicle Market Analysis](https://github.com/giova22i/Practicum-EDA)         | Pandas, Matplotlib | 
-|   Statistical Data Analysis (SDA)    | [Telecom Customer Data Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis)           | Python, pandas, Numpy, SciPy, Seaborn, Matplotlib 
+
 
 
 
@@ -95,8 +79,25 @@ __Highlights__:
  
 *Tools: TensorFlow, Beautiful Soup, Selenium, pandas, ntlk, Google Analytics*
 
-##  <p align=center> Technical Projects: </p>
 
+##  <p align=center> Technical Projects: </p>
+|    Hands-on Experience |         Project       | Technical skills       | 
+|   -------------------- |      -------------   |--------------- | 
+| Unsupervised Learning  | [Client Churn Forecast w/ Machine Learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Unsupervised-Learning) | Machine learning algorithms, XGBoost, CatBoost, LightGBM | 
+| Computer Vision (CV)  | [Computer Vision Age Detection w/ deep learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision) | Tensorflow |
+| Natural Language Processing (NLP)  |  [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts)   | SGDClassifier, Naïve bayes, LightGBM, spaCy, TF-IDF, BERT |    
+|   Time Series Analysis  |  [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project)          | Time Series Analysis, CatBoost, LightGBM, XGBoost |
+|   Machine Learning in Business |  [Gold Recovery Regression Model](https://github.com/giova22i/Gold-Recovery-ML)          | Python, Scikit-learn, LinearRegression |   
+  |   Numerical Methods with ML  |[Vehicle Market Value Prediction w/ gradient boosting](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project)           | Numerical Methods, CatBoost, LightGBM, XGBoost |
+|   Linear Algebra with Machine Learning  | [Insurance Benefits Predictive Model](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Linear-Algebra-Project)   | Scikit-learn, Linear Algebra, k-Nearest Neighbors |
+|   Machine Learning - Classification | [Telecom Plan Classification Model](https://github.com/giova22i/introML)           | Python, Scikit-learn, Pandas |
+|   Supervised Learning - Prediction  |  [Bank Customer Churn Prediction](https://github.com/giova22i/supervisedlearning)          | Scikit-learn, XGBoost, GridSearchCV, AdaBoost |    
+|   Machine Learning in Business | [Oil Well Regression Model](https://github.com/giova22i/MLB)          | Python, Scikit-learn, Bootstrapping, LinearRegression |
+|   Webscraping and Data Storage      | [Data Collection, Webscraping and Storage](https://github.com/giova22i/SQL-Project)           | PostgreSQL, Python, BeautifulSoup, Seaborn, Matplotlib, ETL (extract, transform and load) | 
+|   Data Visualization and Storytelling with Data       | [Video Game Market Analysis](https://github.com/giova22i/Video-Game-Sales-Analysis)          | Python, Pandas, Squarify, Seaborn, Matplotlib |   
+|   Data Preprocessing   |            [Credit Score Analysis](https://github.com/giova22i/Credit-Report-Analysis)           | Python,  NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib | 
+|   Exploratory Data Analysis (EDA)           | [Vehicle Market Analysis](https://github.com/giova22i/Practicum-EDA)         | Pandas, Matplotlib | 
+|   Statistical Data Analysis (SDA)    | [Telecom Customer Data Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis)           | Python, pandas, Numpy, SciPy, Seaborn, Matplotlib 
 * ### **Machine Learning (Python)**
     * [Computer Vision Age Detection](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision): Built a regression model for computer vision, in order to predict the approximate age of a customer from a Supermarket checkout  photograph.
     * [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts): Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews.
