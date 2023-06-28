@@ -78,6 +78,7 @@ __Highlights__:
 * Filtered/trained script to select further grant opportunities using Natural Language Processing
  
 *Tools: TensorFlow, Beautiful Soup, Selenium, pandas, ntlk, Google Analytics*
+** *
 
 
 ##  <p align=center> Technical Projects: </p>
