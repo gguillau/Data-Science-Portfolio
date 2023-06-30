@@ -83,7 +83,7 @@ __Highlights__:
 ##  <p align=center> Technical Projects: </p>
 |    Hands-on Experience |         Project       | Technical skills       | 
 |   -------------------- |      -------------   |--------------- | 
-| Unsupervised Learning  | [Client Churn Forecast w/ Machine Learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Unsupervised-Learning) | Machine learning algorithms, XGBoost, CatBoost, LightGBM | 
+| Unsupervised Learning  | [Client Churn Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Unsupervised-Learning) | Machine learning algorithms, XGBoost, CatBoost, LightGBM | 
 | Computer Vision (CV)  | [Computer Vision Age Detection w/ deep learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision) | Tensorflow |
 | Natural Language Processing (NLP)  |  [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts)   | SGDClassifier, Naïve bayes, LightGBM, spaCy, TF-IDF, BERT |    
 |   Time Series Analysis  |  [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project)          | Time Series Analysis, CatBoost, LightGBM, XGBoost |
@@ -98,8 +98,10 @@ __Highlights__:
 |   Data Preprocessing   |            [Credit Score Analysis](https://github.com/giova22i/Credit-Report-Analysis)           | Python,  NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib | 
 |   Exploratory Data Analysis (EDA)           | [Vehicle Market Analysis](https://github.com/giova22i/Practicum-EDA)         | Pandas, Matplotlib | 
 |   Statistical Data Analysis (SDA)    | [Telecom Customer Data Analysis](https://github.com/giova22i/Prepaid-Plan-Analysis)           | Python, pandas, Numpy, SciPy, Seaborn, Matplotlib 
+
 * ### **Machine Learning (Python)**
-    * [Computer Vision Age Detection](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision): Built a regression model for computer vision, in order to predict the approximate age of a customer from a Supermarket checkout  photograph.
+    * [Client Churn Forecast w/ Machine Learning](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Unsupervised-Learning): Forecast the churn of clients for a telecom company. Collect the necessary information to assist the marketing department in figuring out different ways of retaining clients.  
+    * [Computer Vision Age Detection](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Computer-Vision): Built a regression model for computer vision, in order to predict the approximate age of a customer from a Supermarket checkout photograph.
     * [IMDB Movie Sentiment Analysis using NLP](https://github.com/giova22i/Data-Science-Portfolio/tree/main/ML-for-Texts): Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews.
     * [Time Series Forecast](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Time-Series-Project): Use historical data on taxi orders at airports to create a model that predicts the number of taxi orders for the next hour.
     * [Vehicle Market Value Prediction](https://github.com/giova22i/Data-Science-Portfolio/tree/main/Numerical-Methods-Project): Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
