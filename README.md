@@ -36,10 +36,9 @@ __Highlights__:
 * Evaluated model performance using appropriate MSE and haversine loss
 * Median and mean differences between predicted and actual distances were 1,334 km and 1,881 km, respectively, demonstrating the model's accuracy.
 * Acknowledged the workflow's potential to provide valuable geolocation prediction capabilities, with the possibility of scaling and integrating it into the existing infrastructure for real-time application
+<img src = https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction/blob/main/charts/mintplot.png width=600 /> <img src="https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction/blob/main/charts/languagepie.png" height=350/>
 
-![alt text](https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction/blob/main/charts/mintplot.png)
-
-*Tools:  Python, pandas, seaborn,  scikit-learn, langid, geopandas, tensorflow, BERT*
+*Tools:  Python, seaborn,  folium, scikit-learn, langid, geopandas, tensorflow, BERT*
 
 ** *
 ### [Song Valence Prediction - Cuetessa,inc | Junior Data Scientist](https://github.com/giova22i/Cuetessa-Song-Valence-Prediction)
@@ -54,11 +53,8 @@ __Highlights__:
 * Implemented various approaches to train and validate models to forecast valence scores of songs
 * Conducted model training, validation, and hyperparameter optimization using RandomSearchCV on four regression models: Random Forest, K-Nearest Neighbors, XGBoost, and Linear Regression.
 * Selected Support Vector Regression model trained on 191 normalized audio features, achieving an RMSE score of 0.16 on testing data, meeting the company's desired model performance standards
- 
-   
-<p align="center">
-  <img src="https://github.com/giova22i/Cuetessa-Song-Valence-Prediction/blob/main/charts/resultsvalence.png" />
-</p>
+
+<img src="https://github.com/giova22i/Cuetessa-Song-Valence-Prediction/blob/main/charts/resultsvalence.png" width=400 /> <img src="https://github.com/giova22i/Data-Science-Portfolio/blob/main/images/correlation.png" width=600/> 
 
 *Tools: pandas, numPy, matplotlib, seaborn, spotipy, transformers, sklearn, Librosa*
 
