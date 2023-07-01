@@ -55,7 +55,7 @@ __Highlights__:
 * Conducted model training, validation, and hyperparameter optimization using RandomSearchCV on four regression models: Random Forest, K-Nearest Neighbors, XGBoost, and Linear Regression.
 * Selected Support Vector Regression model trained on 191 normalized audio features, achieving an RMSE score of 0.16 on testing data, meeting the company's desired model performance standards
 
-<img src="https://github.com/giova22i/Cuetessa-Song-Valence-Prediction/blob/main/charts/resultsvalence.png" width=400 /> <img src="https://github.com/giova22i/Data-Science-Portfolio/blob/main/images/correlation.png" width=400/> 
+<img src="https://github.com/giova22i/Cuetessa-Song-Valence-Prediction/blob/main/charts/resultsvalence.png" width=400 /> <img src="https://github.com/giova22i/Data-Science-Portfolio/blob/main/images/correlation.png" width=500/> 
 
 *Tools: pandas, numPy, matplotlib, seaborn, spotipy, transformers, sklearn, Librosa*
 
