@@ -37,7 +37,7 @@ __Highlights__:
 * Median and mean differences between predicted and actual distances were 1,334 km and 1,881 km, respectively, demonstrating the model's accuracy.
 * Acknowledged the workflow's potential to provide valuable geolocation prediction capabilities, with the possibility of scaling and integrating it into the existing infrastructure for real-time application
 
-<img src = https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction/blob/main/charts/mintplot.png width=400 /> <img src="https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction/blob/main/charts/languagepie.png" height=400/>
+<img src = https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction/blob/main/charts/mintplot.png width=450 /> <img src="https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction/blob/main/charts/languagepie.png" height=400/>
 
 *Tools:  Python, seaborn,  folium, scikit-learn, langid, geopandas, tensorflow, BERT*
 
